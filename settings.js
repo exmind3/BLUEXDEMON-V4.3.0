@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "263773127556"
+global.pairingNumber = "2349155177315"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = 263773127556
+global.botNumber = 2349155177315
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -17,34 +17,34 @@ global.egg = "15"
 global.loc = "1"
 global.anticall = false
 global.autoReadChat = false
-global.alwaysonline = true
+global.alwaysonline = false
 global.autoswview = false
-global.public = true
+global.public = false
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bankname = "OLASUPO.M.A"
+global.accnumber = "9155177315"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.newsletterName = "❄️EXMIND❄️"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 EXMIND❄️✅"
+global.ownerName = "❄️EXMIND❄️"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
-global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
+global.botName = "EXMIND❄️𝐕𝟒" 
+global.wm = "EXMIND❄️𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
@@ -57,14 +57,14 @@ global.multi = false
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
-global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
+global.copyright = `EXMIND❄️✅`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
-global.authorName = "BLUE DEMON"
+global.packName = `EXMIND❄️😎`
+global.authorName = "❄️EXMIND❄️"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
