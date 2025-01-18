@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2348168059893"
+global.pairingNumber = "2349155177315"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = 2348168059893
+global.botNumber = 2349155177315
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -48,7 +48,7 @@ global.wm = "EXMIND❄️𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '🔆'
+global.themeemoji = '❄️'
 global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
